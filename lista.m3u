@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** BELGIUM - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/51uhUUT.png" group-title="BELGIUM",*** BELGIUM - github.com/Free-IPTV
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A T V" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="BELGIUM",A T V
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1 tvg-id="BEL Radio PROS (Webradio)" tvg-name="BEL Radio PROS" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" group-title="BELGIUM",BEL Radio PROS (Webradio)
+https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
+#EXTINF:-1 tvg-id="BEL RTL" tvg-name="BEL RTL" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="BELGIUM",BEL RTL
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
